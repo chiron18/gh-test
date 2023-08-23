@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+numpy
+gcsfs
+git+https://github.com/streamlit/files-connection
